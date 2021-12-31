@@ -1,0 +1,5 @@
+<?
+    interface Compras {
+        public function 
+    }
+?>
